@@ -1,0 +1,4 @@
+D:\C#lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.AssemblyInfoInputs.cache
+D:\C#lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.AssemblyInfo.cs
+D:\C#lab\CompoundInterest\CompoundInterest\obj\Debug\net10.0\CompoundInterest.csproj.CoreCompileInputs.cache
