@@ -1,0 +1,14 @@
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.AssemblyInfoInputs.cache
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.AssemblyInfo.cs
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.csproj.CoreCompileInputs.cache
+D:\C#lab\Radiusofcircle\bin\Debug\net10.0\Radiusofcircle.exe
+D:\C#lab\Radiusofcircle\bin\Debug\net10.0\Radiusofcircle.deps.json
+D:\C#lab\Radiusofcircle\bin\Debug\net10.0\Radiusofcircle.runtimeconfig.json
+D:\C#lab\Radiusofcircle\bin\Debug\net10.0\Radiusofcircle.dll
+D:\C#lab\Radiusofcircle\bin\Debug\net10.0\Radiusofcircle.pdb
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.dll
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\refint\Radiusofcircle.dll
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.pdb
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\Radiusofcircle.genruntimeconfig.cache
+D:\C#lab\Radiusofcircle\obj\Debug\net10.0\ref\Radiusofcircle.dll
