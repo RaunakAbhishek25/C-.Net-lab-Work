@@ -1,0 +1,14 @@
+D:\C#lab\determine loan\bin\Debug\net10.0\determine loan.exe
+D:\C#lab\determine loan\bin\Debug\net10.0\determine loan.deps.json
+D:\C#lab\determine loan\bin\Debug\net10.0\determine loan.runtimeconfig.json
+D:\C#lab\determine loan\bin\Debug\net10.0\determine loan.dll
+D:\C#lab\determine loan\bin\Debug\net10.0\determine loan.pdb
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.AssemblyInfoInputs.cache
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.AssemblyInfo.cs
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.csproj.CoreCompileInputs.cache
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.dll
+D:\C#lab\determine loan\obj\Debug\net10.0\refint\determine loan.dll
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.pdb
+D:\C#lab\determine loan\obj\Debug\net10.0\determine loan.genruntimeconfig.cache
+D:\C#lab\determine loan\obj\Debug\net10.0\ref\determine loan.dll
