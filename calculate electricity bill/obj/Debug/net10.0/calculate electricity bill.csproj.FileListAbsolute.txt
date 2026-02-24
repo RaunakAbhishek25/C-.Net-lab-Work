@@ -1,0 +1,14 @@
+D:\C#lab\calculate electricity bill\bin\Debug\net10.0\calculate electricity bill.exe
+D:\C#lab\calculate electricity bill\bin\Debug\net10.0\calculate electricity bill.deps.json
+D:\C#lab\calculate electricity bill\bin\Debug\net10.0\calculate electricity bill.runtimeconfig.json
+D:\C#lab\calculate electricity bill\bin\Debug\net10.0\calculate electricity bill.dll
+D:\C#lab\calculate electricity bill\bin\Debug\net10.0\calculate electricity bill.pdb
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.AssemblyInfoInputs.cache
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.AssemblyInfo.cs
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.csproj.CoreCompileInputs.cache
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.dll
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\refint\calculate electricity bill.dll
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.pdb
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\calculate electricity bill.genruntimeconfig.cache
+D:\C#lab\calculate electricity bill\obj\Debug\net10.0\ref\calculate electricity bill.dll
