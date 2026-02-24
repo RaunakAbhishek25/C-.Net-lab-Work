@@ -1,0 +1,14 @@
+D:\C#lab\verify PIN first\bin\Debug\net10.0\verify PIN first.exe
+D:\C#lab\verify PIN first\bin\Debug\net10.0\verify PIN first.deps.json
+D:\C#lab\verify PIN first\bin\Debug\net10.0\verify PIN first.runtimeconfig.json
+D:\C#lab\verify PIN first\bin\Debug\net10.0\verify PIN first.dll
+D:\C#lab\verify PIN first\bin\Debug\net10.0\verify PIN first.pdb
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.AssemblyInfoInputs.cache
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.AssemblyInfo.cs
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.csproj.CoreCompileInputs.cache
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.dll
+D:\C#lab\verify PIN first\obj\Debug\net10.0\refint\verify PIN first.dll
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.pdb
+D:\C#lab\verify PIN first\obj\Debug\net10.0\verify PIN first.genruntimeconfig.cache
+D:\C#lab\verify PIN first\obj\Debug\net10.0\ref\verify PIN first.dll

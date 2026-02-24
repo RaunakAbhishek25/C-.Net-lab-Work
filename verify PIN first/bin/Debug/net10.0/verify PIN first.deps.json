@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "verify PIN first/1.0.0": {
+        "runtime": {
+          "verify PIN first.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verify PIN first/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
