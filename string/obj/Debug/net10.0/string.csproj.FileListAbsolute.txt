@@ -1,0 +1,14 @@
+D:\C#lab\string\bin\Debug\net10.0\string.exe
+D:\C#lab\string\bin\Debug\net10.0\string.deps.json
+D:\C#lab\string\bin\Debug\net10.0\string.runtimeconfig.json
+D:\C#lab\string\bin\Debug\net10.0\string.dll
+D:\C#lab\string\bin\Debug\net10.0\string.pdb
+D:\C#lab\string\obj\Debug\net10.0\string.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\string\obj\Debug\net10.0\string.AssemblyInfoInputs.cache
+D:\C#lab\string\obj\Debug\net10.0\string.AssemblyInfo.cs
+D:\C#lab\string\obj\Debug\net10.0\string.csproj.CoreCompileInputs.cache
+D:\C#lab\string\obj\Debug\net10.0\string.dll
+D:\C#lab\string\obj\Debug\net10.0\refint\string.dll
+D:\C#lab\string\obj\Debug\net10.0\string.pdb
+D:\C#lab\string\obj\Debug\net10.0\string.genruntimeconfig.cache
+D:\C#lab\string\obj\Debug\net10.0\ref\string.dll
