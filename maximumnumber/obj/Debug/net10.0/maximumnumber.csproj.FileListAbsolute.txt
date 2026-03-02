@@ -1,0 +1,14 @@
+D:\C#lab\New folder\maximumnumber\bin\Debug\net10.0\maximumnumber.exe
+D:\C#lab\New folder\maximumnumber\bin\Debug\net10.0\maximumnumber.deps.json
+D:\C#lab\New folder\maximumnumber\bin\Debug\net10.0\maximumnumber.runtimeconfig.json
+D:\C#lab\New folder\maximumnumber\bin\Debug\net10.0\maximumnumber.dll
+D:\C#lab\New folder\maximumnumber\bin\Debug\net10.0\maximumnumber.pdb
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.AssemblyInfoInputs.cache
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.AssemblyInfo.cs
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.csproj.CoreCompileInputs.cache
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.dll
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\refint\maximumnumber.dll
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.pdb
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\maximumnumber.genruntimeconfig.cache
+D:\C#lab\New folder\maximumnumber\obj\Debug\net10.0\ref\maximumnumber.dll
