@@ -1,0 +1,14 @@
+D:\C#lab\Calculate Sum and Average\bin\Debug\net10.0\Calculate Sum and Average.exe
+D:\C#lab\Calculate Sum and Average\bin\Debug\net10.0\Calculate Sum and Average.deps.json
+D:\C#lab\Calculate Sum and Average\bin\Debug\net10.0\Calculate Sum and Average.runtimeconfig.json
+D:\C#lab\Calculate Sum and Average\bin\Debug\net10.0\Calculate Sum and Average.dll
+D:\C#lab\Calculate Sum and Average\bin\Debug\net10.0\Calculate Sum and Average.pdb
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.AssemblyInfoInputs.cache
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.AssemblyInfo.cs
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.csproj.CoreCompileInputs.cache
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.dll
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\refint\Calculate Sum and Average.dll
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.pdb
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\Calculate Sum and Average.genruntimeconfig.cache
+D:\C#lab\Calculate Sum and Average\obj\Debug\net10.0\ref\Calculate Sum and Average.dll
