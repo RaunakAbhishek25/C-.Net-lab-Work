@@ -1,0 +1,14 @@
+D:\C#lab\SavingsCurrentAccount\bin\Debug\net10.0\SavingsCurrentAccount.exe
+D:\C#lab\SavingsCurrentAccount\bin\Debug\net10.0\SavingsCurrentAccount.deps.json
+D:\C#lab\SavingsCurrentAccount\bin\Debug\net10.0\SavingsCurrentAccount.runtimeconfig.json
+D:\C#lab\SavingsCurrentAccount\bin\Debug\net10.0\SavingsCurrentAccount.dll
+D:\C#lab\SavingsCurrentAccount\bin\Debug\net10.0\SavingsCurrentAccount.pdb
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.AssemblyInfoInputs.cache
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.AssemblyInfo.cs
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.csproj.CoreCompileInputs.cache
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.dll
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\refint\SavingsCurrentAccount.dll
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.pdb
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\SavingsCurrentAccount.genruntimeconfig.cache
+D:\C#lab\SavingsCurrentAccount\obj\Debug\net10.0\ref\SavingsCurrentAccount.dll
